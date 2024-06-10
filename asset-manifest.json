@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/graph-calculator/static/css/main.702810ea.css",
+    "main.js": "/graph-calculator/static/js/main.24550f3d.js",
+    "static/js/787.0c8db8a1.chunk.js": "/graph-calculator/static/js/787.0c8db8a1.chunk.js",
+    "index.html": "/graph-calculator/index.html",
+    "main.702810ea.css.map": "/graph-calculator/static/css/main.702810ea.css.map",
+    "main.24550f3d.js.map": "/graph-calculator/static/js/main.24550f3d.js.map",
+    "787.0c8db8a1.chunk.js.map": "/graph-calculator/static/js/787.0c8db8a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702810ea.css",
+    "static/js/main.24550f3d.js"
+  ]
+}
